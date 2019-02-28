@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/indicator">
+        <file>img/lv.png</file>
+        <file>img/red.png</file>
+        <file>images/min.png</file>
+        <file>images/close.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>img/jinghai2.jpg</file>
+    </qresource>
+</RCC>
