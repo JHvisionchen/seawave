@@ -1,0 +1,1 @@
+-IH:/seawave/build -IH:/seawave/opencv/sources/modules/shape/include -IH:/seawave/opencv/sources/modules/shape/src -IH:/seawave/build/modules/shape -IH:/seawave/opencv/sources/modules/core/include -IH:/seawave/opencv/sources/modules/imgproc/include -IH:/seawave/opencv/sources/modules/video/include 

@@ -1,0 +1,67 @@
+# Target labels
+ Main
+ opencv_videoio
+ Module
+# Source files and their labels
+H:/seawave/opencv/sources/modules/videoio/include/opencv2/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/include/opencv2/videoio/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/include/opencv2/videoio/cap_ios.h
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/include/opencv2/videoio/videoio_c.h
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_images.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_mjpeg_encoder.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_mjpeg_decoder.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_cmu.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_dshow.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_vfw.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_ffmpeg.cpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/precomp.hpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_dshow.hpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/opencv/sources/modules/videoio/src/cap_ffmpeg_impl.hpp
+ Main
+ opencv_videoio
+ Module
+H:/seawave/build/cvconfig.h
+H:/seawave/build/opencv2/opencv_modules.hpp

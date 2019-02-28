@@ -1,0 +1,1 @@
+-IH:/seawave/build -IH:/seawave/opencv/sources/modules/flann/include -IH:/seawave/opencv/sources/modules/flann/src -IH:/seawave/build/modules/flann -IH:/seawave/opencv/sources/modules/core/include 

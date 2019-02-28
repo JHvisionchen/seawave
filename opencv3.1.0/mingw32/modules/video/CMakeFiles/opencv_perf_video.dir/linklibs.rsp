@@ -1,0 +1,1 @@
+../../lib/libopencv_ts310.a ../../lib/libopencv_video310.dll.a ../../lib/libopencv_highgui310.dll.a ../../lib/libopencv_videoio310.dll.a ../../lib/libopencv_imgcodecs310.dll.a ../../lib/libopencv_imgproc310.dll.a ../../lib/libopencv_core310.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

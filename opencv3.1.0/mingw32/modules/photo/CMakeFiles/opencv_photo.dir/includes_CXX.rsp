@@ -1,0 +1,1 @@
+-IH:/seawave/opencv/sources/3rdparty/include/opencl/1.2 -IH:/seawave/build -IH:/seawave/opencv/sources/modules/photo/include -IH:/seawave/opencv/sources/modules/photo/src -IH:/seawave/build/modules/photo -IH:/seawave/opencv/sources/modules/core/include -IH:/seawave/opencv/sources/modules/imgproc/include 

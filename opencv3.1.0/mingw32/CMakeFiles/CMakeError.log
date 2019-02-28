@@ -1,0 +1,44 @@
+Determining if the function jbg_newlen exists failed with the following output:
+Change Dir: H:/seawave/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"G:/qt5.5.1/Tools/mingw492_32/bin/mingw32-make.exe" "cmTC_0b3d4/fast"
+G:/qt5.5.1/Tools/mingw492_32/bin/mingw32-make.exe -f CMakeFiles\cmTC_0b3d4.dir\build.make CMakeFiles/cmTC_0b3d4.dir/build
+mingw32-make.exe[1]: Entering directory 'H:/seawave/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b3d4.dir/CheckFunctionExists.c.obj
+G:\qt5.5.1\Tools\mingw492_32\bin\gcc.exe   -fsigned-char -mstackrealign -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -march=i686 -fomit-frame-pointer -msse -msse2 -mfpmath=sse -ffunction-sections -fvisibility=hidden -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG   -o CMakeFiles\cmTC_0b3d4.dir\CheckFunctionExists.c.obj   -c G:\cmake\share\cmake-3.8\Modules\CheckFunctionExists.c
+Linking C executable cmTC_0b3d4.exe
+G:\cmake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_0b3d4.dir\link.txt --verbose=1
+G:\cmake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_0b3d4.dir/objects.a
+G:\qt5.5.1\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\cmTC_0b3d4.dir/objects.a @CMakeFiles\cmTC_0b3d4.dir\objects1.rsp
+G:\qt5.5.1\Tools\mingw492_32\bin\gcc.exe    -fsigned-char -mstackrealign -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -march=i686 -fomit-frame-pointer -msse -msse2 -mfpmath=sse -ffunction-sections -fvisibility=hidden -DCHECK_FUNCTION_EXISTS=jbg_newlen -O3 -DNDEBUG    -Wl,--whole-archive CMakeFiles\cmTC_0b3d4.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0b3d4.exe -Wl,--out-implib,libcmTC_0b3d4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0b3d4.dir\linklibs.rsp
+CMakeFiles\cmTC_0b3d4.dir/objects.a(CheckFunctionExists.c.obj):CheckFunctionExists.c:(.text.startup.main+0xc): undefined reference to `jbg_newlen'
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTC_0b3d4.dir\build.make:98: recipe for target 'cmTC_0b3d4.exe' failed
+mingw32-make.exe[1]: *** [cmTC_0b3d4.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'H:/seawave/build/CMakeFiles/CMakeTmp'
+makefile:125: recipe for target 'cmTC_0b3d4/fast' failed
+mingw32-make.exe: *** [cmTC_0b3d4/fast] Error 2
+
+
+Determining if the function mmap exists failed with the following output:
+Change Dir: H:/seawave/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"G:/qt5.5.1/Tools/mingw492_32/bin/mingw32-make.exe" "cmTC_18073/fast"
+G:/qt5.5.1/Tools/mingw492_32/bin/mingw32-make.exe -f CMakeFiles\cmTC_18073.dir\build.make CMakeFiles/cmTC_18073.dir/build
+mingw32-make.exe[1]: Entering directory 'H:/seawave/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_18073.dir/CheckFunctionExists.c.obj
+G:\qt5.5.1\Tools\mingw492_32\bin\gcc.exe   -fsigned-char -mstackrealign -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -march=i686 -fomit-frame-pointer -msse -msse2 -mfpmath=sse -ffunction-sections -fvisibility=hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG   -o CMakeFiles\cmTC_18073.dir\CheckFunctionExists.c.obj   -c G:\cmake\share\cmake-3.8\Modules\CheckFunctionExists.c
+Linking C executable cmTC_18073.exe
+G:\cmake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_18073.dir\link.txt --verbose=1
+G:\cmake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_18073.dir/objects.a
+G:\qt5.5.1\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\cmTC_18073.dir/objects.a @CMakeFiles\cmTC_18073.dir\objects1.rsp
+G:\qt5.5.1\Tools\mingw492_32\bin\gcc.exe    -fsigned-char -mstackrealign -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -march=i686 -fomit-frame-pointer -msse -msse2 -mfpmath=sse -ffunction-sections -fvisibility=hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG    -Wl,--whole-archive CMakeFiles\cmTC_18073.dir/objects.a -Wl,--no-whole-archive  -o cmTC_18073.exe -Wl,--out-implib,libcmTC_18073.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_18073.dir\linklibs.rsp
+CMakeFiles\cmTC_18073.dir/objects.a(CheckFunctionExists.c.obj):CheckFunctionExists.c:(.text.startup.main+0xc): undefined reference to `mmap'
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTC_18073.dir\build.make:98: recipe for target 'cmTC_18073.exe' failed
+mingw32-make.exe[1]: *** [cmTC_18073.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'H:/seawave/build/CMakeFiles/CMakeTmp'
+makefile:125: recipe for target 'cmTC_18073/fast' failed
+mingw32-make.exe: *** [cmTC_18073/fast] Error 2
+
+
